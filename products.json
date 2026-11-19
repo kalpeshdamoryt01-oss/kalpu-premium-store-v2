@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Digital Business Ebook",
+    "description": "A downloadable digital guide.",
+    "price": 99,
+    "old_price": 199,
+    "delivery_url": "https://example.com/replace-with-your-file"
+  },
+  {
+    "name": "Premium Templates",
+    "description": "A pack of editable templates.",
+    "price": 49,
+    "old_price": 99,
+    "delivery_url": "https://example.com/replace-with-your-file"
+  }
+]
